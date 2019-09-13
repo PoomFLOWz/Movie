@@ -1,0 +1,10 @@
+C:\Users\$Ikky\source\repos\Movie\Movie\bin\Debug\Movie.exe.config
+C:\Users\$Ikky\source\repos\Movie\Movie\bin\Debug\Movie.exe
+C:\Users\$Ikky\source\repos\Movie\Movie\bin\Debug\Movie.pdb
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.csprojAssemblyReference.cache
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.Movie.resources
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.cache
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.exe
+C:\Users\$Ikky\source\repos\Movie\Movie\obj\Debug\Movie.pdb
